@@ -14,4 +14,4 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [file:///C:/Users/jatsm/Downloads/product-preview-card-component-main/product-preview-card-component-main/index.html]
+- Solution URL: https://jenifertuft.github.io/product-preview-card-component-main/
